@@ -5,11 +5,12 @@
   "main": "index.js",
   "module": "main.js",
   "scripts": {
-    "start":""
+    "start": ""
   },
   "author": "Jarrod Van Doren",
   "license": "MIT",
   "dependencies": {
-    "esm": "^3.0.84"
+    "esm": "^3.0.84",
+    "koa": "^2.5.3"
   }
 }
