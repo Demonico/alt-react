@@ -1,0 +1,15 @@
+{
+  "name": "alt-react",
+  "version": "0.1.0",
+  "description": "Alternative build system and backend for a React project",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "start":""
+  },
+  "author": "Jarrod Van Doren",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.0.84"
+  }
+}
